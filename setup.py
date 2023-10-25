@@ -10,11 +10,11 @@ README = open('README.rst').read()    \
 
 setup(
     name='django-cacheops',
-    version='6.0',
+    version='6.0.1',
     author='Alexander Schepanovski',
     author_email='suor.web@gmail.com',
 
-    description='A slick ORM cache with automatic granular event-driven invalidation for Django.',
+    description='A slick ORM cache with automatic granular event-driven invalidation for Django. (forked)',
     long_description=README,
     url='http://github.com/Suor/django-cacheops',
     license='BSD',
